@@ -1,0 +1,9 @@
+#root{
+    background-color: rgb(251, 240, 255);
+    height: fit-content;
+    align-content: center;
+}
+main{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRva52Zyp7ge-hy6vVDAURcm_O6mevPuWTLow&s');
+    align-content: center;
+}
